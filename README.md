@@ -1,4 +1,4 @@
-<img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
+<img src="https://github.com/eduardoocastrro/eduardoocastrro/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
 
 <p align="left">
   :unicorn: Skills: <strong>HTML.</strong>
@@ -16,7 +16,7 @@
   <strong>Change the language</strong>
 </p>
 <p align="left">
-  <a href="https://github.com/MatheusFC2/MatheusFC2/blob/master/README-pt.md" alt="turn lenguage">
-    <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/brasil.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
+  <a href="https://github.com/eduardoocastrro/eduardoocastrro/blob/main/README-pt.md" alt="turn lenguage">
+    <img src="https://github.com/eduardoocastrro/eduardoocastrro/blob/main/brasil.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
   </a> 
 </p>
